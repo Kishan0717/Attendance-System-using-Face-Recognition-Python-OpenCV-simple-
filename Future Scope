@@ -1,0 +1,3 @@
+Store attendance in database (MySQL/SQLite)
+Generate Excel reports
+Deploy on web app with Flask/Django
